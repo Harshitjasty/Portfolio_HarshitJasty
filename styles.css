@@ -673,6 +673,14 @@ main section[id] {
     linear-gradient(145deg, #dff1ff, #a8d8ff 48%, #eef8ff);
 }
 
+.project-agri {
+  background:
+    radial-gradient(circle at 18% 24%, rgba(115, 227, 203, 0.96), transparent 18%),
+    radial-gradient(circle at 76% 30%, rgba(72, 164, 255, 0.86), transparent 22%),
+    radial-gradient(circle at 68% 72%, rgba(255, 191, 109, 0.62), transparent 24%),
+    linear-gradient(145deg, #eafff6, #dff7eb 42%, #eef7ff);
+}
+
 .project-pose {
   background:
     radial-gradient(circle at 22% 24%, rgba(115, 227, 203, 0.98), transparent 18%),
